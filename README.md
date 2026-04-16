@@ -1,2 +1,5 @@
-# smart-solar-forecasting-lstm
-Smart system for solar energy monitoring and real-time power prediction using LSTM deep learning and physical sensors.
+An intelligent system powered by Deep learning techinques to monitor solar energy production and predict future.The system relies on real-time readings collected from physical sensors integrated with a solar panel,providing a realistic model for smart energy managment
+### Hardware Components & Real-Time Data Acquisition 
+![Hard ware setup]
+
+* This 
