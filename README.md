@@ -1,4 +1,5 @@
-###Smart Solar Energy Monitoring & Real-Time Production Forecasting System
+Smart Solar Energy Monitoring & Real-Time Production Forecasting System.
+
 An integrated system powered by **Deep Learning** and **IoT** techniques, designed to monitor solar energy parameters and predict future production with high precision. The system relies on real-time readings collected from physical sensors integrated with solar panels, providing a realistic and functional model for smart energy management.
 ![Hardware setup](https://github.com/reda336/Smart-Solar-Energy-Forecasting-System-LSTM-/blob/main/assets/image006.jpg)
 ## **Hardware Components & Data Acquisition**
